@@ -12,7 +12,7 @@ export const Logo: React.FC<LogoProps> = ({ size = 40, className = '' }) => {
       style={{ width: size, height: size }}
     >
       <img 
-        src="/src/assets/nearbux-logo.jpg" 
+        src="https://drive.google.com/file/d/1kAXoYhZRmcwwqcyOXYU1UVrNpMYElTqt/view?usp=sharing" 
         alt="NearBux Logo" 
         className="w-full h-full object-cover"
       />
